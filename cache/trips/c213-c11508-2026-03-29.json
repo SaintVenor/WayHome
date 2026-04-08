@@ -1,0 +1,551 @@
+{
+ "last_update": "2026-03-29",
+ "trips": [
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T05:30:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T00:10:00+03:00",
+     "duration_seconds": 19200,
+     "number": "SU 2134",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 19200,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T04:50:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T00:40:00+03:00",
+     "duration_seconds": 15000,
+     "number": "TK 410",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T05:20:00+03:00",
+     "carrier": "Pegasus",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T01:10:00+03:00",
+     "duration_seconds": 15000,
+     "number": "PC 391",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T05:45:00+03:00",
+     "carrier": "Southwind Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T02:00:00+03:00",
+     "duration_seconds": 13500,
+     "number": "2S 86",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 13500,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T06:00:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T02:05:00+03:00",
+     "duration_seconds": 14100,
+     "number": "TK 412",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14100,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T06:40:00+03:00",
+     "carrier": "Ajet",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T02:30:00+03:00",
+     "duration_seconds": 15000,
+     "number": "VF 276",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T06:55:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T02:50:00+03:00",
+     "duration_seconds": 14700,
+     "number": "TK 422",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14700,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T08:10:00+03:00",
+     "carrier": "Pegasus",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T04:00:00+03:00",
+     "duration_seconds": 15000,
+     "number": "PC 387",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T10:05:00+03:00",
+     "carrier": "Ajet",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T05:50:00+03:00",
+     "duration_seconds": 15300,
+     "number": "VF 278",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15300,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T10:05:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T06:10:00+03:00",
+     "duration_seconds": 14100,
+     "number": "TK 408",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14100,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T11:55:00+03:00",
+     "carrier": "Победа",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T06:40:00+03:00",
+     "duration_seconds": 18900,
+     "number": "DP 993",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18900,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T12:20:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T07:20:00+03:00",
+     "duration_seconds": 18000,
+     "number": "SU 2172",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T11:50:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T07:55:00+03:00",
+     "duration_seconds": 14100,
+     "number": "TK 420",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14100,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T14:15:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T09:10:00+03:00",
+     "duration_seconds": 18300,
+     "number": "SU 2136",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18300,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T15:10:00+03:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T09:55:00+03:00",
+     "duration_seconds": 18900,
+     "number": "S7 3749",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18900,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T15:20:00+03:00",
+     "carrier": "Уральские авиалинии",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T10:05:00+03:00",
+     "duration_seconds": 18900,
+     "number": "U6 783",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18900,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T15:55:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T10:45:00+03:00",
+     "duration_seconds": 18600,
+     "number": "SU 2130",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18600,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T15:50:00+03:00",
+     "carrier": "Southwind Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T12:05:00+03:00",
+     "duration_seconds": 13500,
+     "number": "2S 124",
+     "thread_title": "Жуковский — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 13500,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T16:25:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T12:30:00+03:00",
+     "duration_seconds": 14100,
+     "number": "TK 414",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14100,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T18:45:00+03:00",
+     "carrier": "Победа",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T13:30:00+03:00",
+     "duration_seconds": 18900,
+     "number": "DP 995",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18900,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T18:30:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T14:30:00+03:00",
+     "duration_seconds": 14400,
+     "number": "TK 418",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14400,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T19:15:00+03:00",
+     "carrier": "Pegasus",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T15:05:00+03:00",
+     "duration_seconds": 15000,
+     "number": "PC 389",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 15000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T22:10:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T17:00:00+03:00",
+     "duration_seconds": 18600,
+     "number": "SU 2734",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18600,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-29T23:25:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T19:25:00+03:00",
+     "duration_seconds": 14400,
+     "number": "TK 416",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 14400,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-30T02:30:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T21:15:00+03:00",
+     "duration_seconds": 18900,
+     "number": "SU 2132",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18900,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Москва",
+   "legs": [
+    {
+     "arrival": "2026-03-30T04:35:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Стамбул",
+     "departure": "2026-03-29T23:25:00+03:00",
+     "duration_seconds": 18600,
+     "number": "SU 2138",
+     "thread_title": "Москва — Стамбул",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Стамбул",
+   "total_duration": 18600,
+   "transfers_count": 0
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "last_update": "2026-03-29",
+ "trips": [
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:00:00+03:00",
+     "carrier": "Москва ООО \"Горизон-Тур\"",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:01:00+03:00",
+     "duration_seconds": 25140,
+     "number": "",
+     "thread_title": "Анапа — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 11700,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-31T05:30:00+08:00",
+     "carrier": "China Eastern Airlines",
+     "city_from": "Москва",
+     "city_to": "Пекин",
+     "departure": "2026-03-30T17:15:00+03:00",
+     "duration_seconds": 26100,
+     "number": "MU 2076",
+     "thread_title": "Москва — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 62940,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T17:45:00+03:00",
+     "carrier": "ИП Дробышев В.В.",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T10:15:00+03:00",
+     "duration_seconds": 27000,
+     "number": "",
+     "thread_title": "Воронеж — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12000,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-31T09:50:00+08:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Пекин",
+     "departure": "2026-03-30T21:05:00+03:00",
+     "duration_seconds": 27900,
+     "number": "SU 204",
+     "thread_title": "Москва — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 66900,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:10:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:22:00+03:00",
+     "duration_seconds": 24480,
+     "number": "237Я",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 16800,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T07:25:00+08:00",
+     "carrier": "China Southern Airlines",
+     "city_from": "Москва",
+     "city_to": "Пекин",
+     "departure": "2026-03-30T18:50:00+03:00",
+     "duration_seconds": 27300,
+     "number": "CZ 342",
+     "thread_title": "Москва — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 68580,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T13:20:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T02:06:00+03:00",
+     "duration_seconds": 40440,
+     "number": "542С",
+     "thread_title": "Адлер — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 14100,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T05:30:00+08:00",
+     "carrier": "China Eastern Airlines",
+     "city_from": "Москва",
+     "city_to": "Пекин",
+     "departure": "2026-03-30T17:15:00+03:00",
+     "duration_seconds": 26100,
+     "number": "MU 2076",
+     "thread_title": "Москва — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 80640,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T08:25:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T21:30:00+03:00",
+     "duration_seconds": 39300,
+     "number": "025В",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12000,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T19:45:00+07:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Москва",
+     "city_to": "Новосибирск",
+     "departure": "2026-03-31T11:45:00+03:00",
+     "duration_seconds": 14400,
+     "number": "S7 2505",
+     "thread_title": "Москва — Новосибирск",
+     "transfer_city": "Новосибирск",
+     "transfer_wait_seconds": 13500,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-01T04:55:00+08:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Новосибирск",
+     "city_to": "Пекин",
+     "departure": "2026-03-31T23:30:00+07:00",
+     "duration_seconds": 15900,
+     "number": "S7 5723",
+     "thread_title": "Новосибирск — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 95100,
+   "transfers_count": 2
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:10:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:22:00+03:00",
+     "duration_seconds": 24480,
+     "number": "237Я",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 27900,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T08:20:00+08:00",
+     "carrier": "China Southern Airlines",
+     "city_from": "Москва",
+     "city_to": "Урумчи",
+     "departure": "2026-03-30T21:55:00+03:00",
+     "duration_seconds": 19500,
+     "number": "CZ 6002",
+     "thread_title": "Москва — Урумчи",
+     "transfer_city": "Урумчи",
+     "transfer_wait_seconds": 15000,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-03-31T16:15:00+08:00",
+     "carrier": "China Southern Airlines",
+     "city_from": "Урумчи",
+     "city_to": "Пекин",
+     "departure": "2026-03-31T12:30:00+08:00",
+     "duration_seconds": 13500,
+     "number": "CZ 6915",
+     "thread_title": "Урумчи — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 100380,
+   "transfers_count": 2
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T21:39:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T14:35:00+03:00",
+     "duration_seconds": 25440,
+     "number": "003С",
+     "thread_title": "Кисловодск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 13860,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T12:10:00+08:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Иркутск",
+     "departure": "2026-03-31T01:30:00+03:00",
+     "duration_seconds": 20400,
+     "number": "SU 1562",
+     "thread_title": "Москва — Иркутск",
+     "transfer_city": "Иркутск",
+     "transfer_wait_seconds": 48600,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-01T04:35:00+08:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Иркутск",
+     "city_to": "Пекин",
+     "departure": "2026-04-01T01:40:00+08:00",
+     "duration_seconds": 10500,
+     "number": "S7 6311",
+     "thread_title": "Иркутск — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 118800,
+   "transfers_count": 2
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-04-01T13:54:00+05:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Курган",
+     "departure": "2026-03-30T18:00:00+03:00",
+     "duration_seconds": 150840,
+     "number": "124В",
+     "thread_title": "Белгород — Новосибирск",
+     "transfer_city": "Курган",
+     "transfer_wait_seconds": 5460,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-04-01T21:24:00+05:00",
+     "carrier": "Калинин Александр Алексеевич",
+     "city_from": "Курган",
+     "city_to": "Екатеринбург",
+     "departure": "2026-04-01T15:25:00+05:00",
+     "duration_seconds": 21540,
+     "number": "",
+     "thread_title": "Курган, автовокзал — Екатеринбург",
+     "transfer_city": "Екатеринбург",
+     "transfer_wait_seconds": 76860,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-04-03T03:55:00+08:00",
+     "carrier": "Уральские авиалинии",
+     "city_from": "Екатеринбург",
+     "city_to": "Пекин",
+     "departure": "2026-04-02T18:45:00+05:00",
+     "duration_seconds": 22200,
+     "number": "U6 875",
+     "thread_title": "Екатеринбург — Пекин",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Пекин",
+   "total_duration": 276900,
+   "transfers_count": 2
+  }
+ ]
+}

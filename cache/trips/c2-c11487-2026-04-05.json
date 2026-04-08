@@ -1,0 +1,264 @@
+{
+ "last_update": "2026-04-03",
+ "trips": [
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-06T01:35:00+02:00",
+     "carrier": "Air Cairo",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Шарм-Эль-Шейх",
+     "departure": "2026-04-05T20:45:00+03:00",
+     "duration_seconds": 21000,
+     "number": "SM 902",
+     "thread_title": "Санкт-Петербург — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-Эль-Шейх",
+   "total_duration": 21000,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T05:25:00+03:00",
+     "carrier": "Southwind Airlines",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Анталья",
+     "departure": "2026-04-05T01:05:00+03:00",
+     "duration_seconds": 15600,
+     "number": "2S 114",
+     "thread_title": "Санкт-Петербург — Анталья",
+     "transfer_city": "Анталья",
+     "transfer_wait_seconds": 12900,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T10:00:00+02:00",
+     "carrier": "Pegasus",
+     "city_from": "Анталья",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T09:00:00+03:00",
+     "duration_seconds": 7200,
+     "number": "PC 5088",
+     "thread_title": "Анталья — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 35700,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T04:15:00+03:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Стамбул",
+     "departure": "2026-04-05T00:15:00+03:00",
+     "duration_seconds": 14400,
+     "number": "TK 400",
+     "thread_title": "Санкт-Петербург — Стамбул",
+     "transfer_city": "Стамбул",
+     "transfer_wait_seconds": 11700,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T09:15:00+02:00",
+     "carrier": "Turkish Airlines",
+     "city_from": "Стамбул",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T07:30:00+03:00",
+     "duration_seconds": 9900,
+     "number": "TK 700",
+     "thread_title": "Стамбул — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 36000,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T10:00:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Москва",
+     "departure": "2026-04-05T08:30:00+03:00",
+     "duration_seconds": 5400,
+     "number": "FV 6700",
+     "thread_title": "Санкт-Петербург — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 9300,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T18:00:00+02:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T12:35:00+03:00",
+     "duration_seconds": 23100,
+     "number": "SU 430",
+     "thread_title": "Москва — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 37800,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T18:50:00+03:00",
+     "carrier": "Pegasus",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Стамбул",
+     "departure": "2026-04-05T15:00:00+03:00",
+     "duration_seconds": 13800,
+     "number": "PC 397",
+     "thread_title": "Санкт-Петербург — Стамбул",
+     "transfer_city": "Стамбул",
+     "transfer_wait_seconds": 17100,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-06T01:15:00+02:00",
+     "carrier": "Ajet",
+     "city_from": "Стамбул",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T23:35:00+03:00",
+     "duration_seconds": 9600,
+     "number": "VF 255",
+     "thread_title": "Стамбул — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 40500,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T10:30:00+03:00",
+     "carrier": "Уральские авиалинии",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Сочи",
+     "departure": "2026-04-05T06:00:00+03:00",
+     "duration_seconds": 16200,
+     "number": "U6 547",
+     "thread_title": "Санкт-Петербург — Сочи",
+     "transfer_city": "Сочи",
+     "transfer_wait_seconds": 15000,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T16:35:00+02:00",
+     "carrier": "Уральские авиалинии",
+     "city_from": "Сочи",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T14:40:00+03:00",
+     "duration_seconds": 10500,
+     "number": "U6 1819",
+     "thread_title": "Сочи — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 41700,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T08:00:00+02:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Хургада",
+     "departure": "2026-04-05T02:00:00+03:00",
+     "duration_seconds": 25200,
+     "number": "SU 732",
+     "thread_title": "Санкт-Петербург — Хургада",
+     "transfer_city": "Каир",
+     "transfer_wait_seconds": 21000,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T14:50:00+02:00",
+     "carrier": "Egypt Air",
+     "city_from": "Каир",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T13:50:00+02:00",
+     "duration_seconds": 3600,
+     "number": "MS 226",
+     "thread_title": "Каир — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 49800,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Санкт-Петербург",
+   "legs": [
+    {
+     "arrival": "2026-04-05T08:00:00+02:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Санкт-Петербург",
+     "city_to": "Хургада",
+     "departure": "2026-04-05T02:00:00+03:00",
+     "duration_seconds": 25200,
+     "number": "SU 732",
+     "thread_title": "Санкт-Петербург — Хургада",
+     "transfer_city": "Хургада",
+     "transfer_wait_seconds": 24900,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-05T15:25:00+02:00",
+     "carrier": "Air Cairo",
+     "city_from": "Хургада",
+     "city_to": "Шарм-эль-Шейх",
+     "departure": "2026-04-05T14:55:00+02:00",
+     "duration_seconds": 1800,
+     "number": "SM 15",
+     "thread_title": "Хургада — Шарм-эль-Шейх",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Шарм-эль-Шейх",
+   "total_duration": 51900,
+   "transfers_count": 1
+  }
+ ]
+}

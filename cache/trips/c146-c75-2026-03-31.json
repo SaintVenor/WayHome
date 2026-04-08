@@ -1,0 +1,180 @@
+{
+ "last_update": "2026-03-29",
+ "trips": [
+  {
+   "from_city": "Симферополь",
+   "legs": [
+    {
+     "arrival": "2026-04-02T10:00:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Симферополь",
+     "city_to": "Москва",
+     "departure": "2026-03-31T23:10:00+03:00",
+     "duration_seconds": 125400,
+     "number": "092С",
+     "thread_title": "Севастополь — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 20400,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-04-03T06:55:00+10:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Владивосток",
+     "departure": "2026-04-02T15:40:00+03:00",
+     "duration_seconds": 29700,
+     "number": "SU 1700",
+     "thread_title": "Москва — Владивосток",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Владивосток",
+   "total_duration": 175500,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Симферополь",
+   "legs": [
+    {
+     "arrival": "2026-04-01T06:40:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Симферополь",
+     "city_to": "Краснодар",
+     "departure": "2026-03-31T20:30:00+03:00",
+     "duration_seconds": 36600,
+     "number": "026С",
+     "thread_title": "Симферополь — Минеральные Воды",
+     "transfer_city": "Краснодар",
+     "transfer_wait_seconds": 14700,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-04-01T14:35:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Краснодар",
+     "city_to": "Москва",
+     "departure": "2026-04-01T10:45:00+03:00",
+     "duration_seconds": 13800,
+     "number": "SU 1267",
+     "thread_title": "Краснодар — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 13800,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-02T09:45:00+10:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Владивосток",
+     "departure": "2026-04-01T18:25:00+03:00",
+     "duration_seconds": 30000,
+     "number": "SU 1704",
+     "thread_title": "Москва — Владивосток",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Владивосток",
+   "total_duration": 108900,
+   "transfers_count": 2
+  },
+  {
+   "from_city": "Симферополь",
+   "legs": [
+    {
+     "arrival": "2026-04-01T10:28:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Симферополь",
+     "city_to": "Краснодар",
+     "departure": "2026-03-31T23:10:00+03:00",
+     "duration_seconds": 40680,
+     "number": "092С",
+     "thread_title": "Севастополь — Москва",
+     "transfer_city": "Краснодар",
+     "transfer_wait_seconds": 29520,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-04-02T04:20:00+07:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Краснодар",
+     "city_to": "Красноярск",
+     "departure": "2026-04-01T18:40:00+03:00",
+     "duration_seconds": 20400,
+     "number": "SU 2858",
+     "thread_title": "Краснодар — Красноярск",
+     "transfer_city": "Красноярск",
+     "transfer_wait_seconds": 12600,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-02T15:45:00+10:00",
+     "carrier": "Россия",
+     "city_from": "Красноярск",
+     "city_to": "Владивосток",
+     "departure": "2026-04-02T07:50:00+07:00",
+     "duration_seconds": 17700,
+     "number": "FV 5751",
+     "thread_title": "Красноярск — Владивосток",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Владивосток",
+   "total_duration": 120900,
+   "transfers_count": 2
+  },
+  {
+   "from_city": "Симферополь",
+   "legs": [
+    {
+     "arrival": "2026-04-01T09:13:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Симферополь",
+     "city_to": "Сочи",
+     "departure": "2026-03-31T17:30:00+03:00",
+     "duration_seconds": 56580,
+     "number": "316С",
+     "thread_title": "Симферополь — Адлер",
+     "transfer_city": "Сочи",
+     "transfer_wait_seconds": 14820,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-04-01T22:10:00+07:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Сочи",
+     "city_to": "Новосибирск",
+     "departure": "2026-04-01T13:20:00+03:00",
+     "duration_seconds": 17400,
+     "number": "S7 5104",
+     "thread_title": "Сочи — Новосибирск",
+     "transfer_city": "Новосибирск",
+     "transfer_wait_seconds": 12300,
+     "transport_type": "plane"
+    },
+    {
+     "arrival": "2026-04-02T10:10:00+10:00",
+     "carrier": "S7 Airlines",
+     "city_from": "Новосибирск",
+     "city_to": "Владивосток",
+     "departure": "2026-04-02T01:35:00+07:00",
+     "duration_seconds": 20100,
+     "number": "S7 5207",
+     "thread_title": "Новосибирск — Владивосток",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Владивосток",
+   "total_duration": 121200,
+   "transfers_count": 2
+  }
+ ]
+}

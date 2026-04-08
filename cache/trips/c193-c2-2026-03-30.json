@@ -1,0 +1,819 @@
+{
+ "last_update": "2026-03-29",
+ "trips": [
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T21:55:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T00:24:00+03:00",
+     "duration_seconds": 77460,
+     "number": "078С",
+     "thread_title": "Симферополь — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 77460,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T07:43:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T07:19:00+03:00",
+     "duration_seconds": 87840,
+     "number": "135С",
+     "thread_title": "Махачкала — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 87840,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T09:00:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T11:09:00+03:00",
+     "duration_seconds": 78660,
+     "number": "049С",
+     "thread_title": "Кисловодск — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 78660,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T13:06:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T12:00:00+03:00",
+     "duration_seconds": 90360,
+     "number": "122С",
+     "thread_title": "Новороссийск — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 90360,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T11:39:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T12:14:00+03:00",
+     "duration_seconds": 84300,
+     "number": "100С",
+     "thread_title": "Адлер — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 84300,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T09:50:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T18:21:00+03:00",
+     "duration_seconds": 55740,
+     "number": "008С",
+     "thread_title": "Севастополь — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 55740,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T12:25:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T20:00:00+03:00",
+     "duration_seconds": 59100,
+     "number": "036С",
+     "thread_title": "Адлер — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 59100,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T21:55:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Воронеж",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T00:24:00+03:00",
+     "duration_seconds": 77460,
+     "number": "078С",
+     "thread_title": "Симферополь — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 77460,
+   "transfers_count": 0
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T05:00:00+03:00",
+     "carrier": "ИП Дробышев В.В.",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T23:00:00+03:00",
+     "duration_seconds": 21600,
+     "number": "",
+     "thread_title": "Воронеж — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12600,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-31T10:00:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T08:30:00+03:00",
+     "duration_seconds": 5400,
+     "number": "FV 6020",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 39600,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:10:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:22:00+03:00",
+     "duration_seconds": 24480,
+     "number": "237Я",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12000,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-30T18:55:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T17:30:00+03:00",
+     "duration_seconds": 5100,
+     "number": "FV 6085",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 41580,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T18:45:00+03:00",
+     "carrier": "ИП Дробышев В.В.",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T12:15:00+03:00",
+     "duration_seconds": 23400,
+     "number": "",
+     "thread_title": "Воронеж — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 13500,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-30T23:55:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T22:30:00+03:00",
+     "duration_seconds": 5100,
+     "number": "FV 6809",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 42000,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:00:00+03:00",
+     "carrier": "Москва ООО \"Горизон-Тур\"",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:01:00+03:00",
+     "duration_seconds": 25140,
+     "number": "",
+     "thread_title": "Анапа — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 11700,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-30T18:45:00+03:00",
+     "carrier": "Аэрофлот",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T17:15:00+03:00",
+     "duration_seconds": 5400,
+     "number": "SU 24",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 42240,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T21:39:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T14:35:00+03:00",
+     "duration_seconds": 25440,
+     "number": "003С",
+     "thread_title": "Кисловодск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12060,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T02:25:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T01:00:00+03:00",
+     "duration_seconds": 5100,
+     "number": "FV 6699",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 42600,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T14:10:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T07:22:00+03:00",
+     "duration_seconds": 24480,
+     "number": "237Я",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 4800,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-30T19:26:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T15:30:00+03:00",
+     "duration_seconds": 14160,
+     "number": "772А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 43440,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T17:45:00+03:00",
+     "carrier": "ИП Дробышев В.В.",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T10:15:00+03:00",
+     "duration_seconds": 27000,
+     "number": "",
+     "thread_title": "Воронеж — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 11700,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-30T22:25:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T21:00:00+03:00",
+     "duration_seconds": 5100,
+     "number": "FV 6705",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 43800,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T18:45:00+03:00",
+     "carrier": "ИП Дробышев В.В.",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T12:15:00+03:00",
+     "duration_seconds": 23400,
+     "number": "",
+     "thread_title": "Воронеж — Москва, автовокзал Красногвардейский",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 7500,
+     "transport_type": "bus"
+    },
+    {
+     "arrival": "2026-03-31T00:41:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T20:50:00+03:00",
+     "duration_seconds": 13860,
+     "number": "784А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 44760,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T08:40:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T00:59:00+03:00",
+     "duration_seconds": 27660,
+     "number": "019С",
+     "thread_title": "Ростов-на-Дону — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 3000,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-30T13:28:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T09:30:00+03:00",
+     "duration_seconds": 14280,
+     "number": "760А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 44940,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T20:40:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T12:51:00+03:00",
+     "duration_seconds": 28140,
+     "number": "030Й",
+     "thread_title": "Новороссийск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 13800,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T01:55:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T00:30:00+03:00",
+     "duration_seconds": 5100,
+     "number": "FV 6951",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 47040,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T20:00:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T11:25:00+03:00",
+     "duration_seconds": 30900,
+     "number": "266Э",
+     "thread_title": "Новороссийск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 3000,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T00:41:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T20:50:00+03:00",
+     "duration_seconds": 13860,
+     "number": "784А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 47760,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T10:00:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T01:14:00+03:00",
+     "duration_seconds": 31560,
+     "number": "092С",
+     "thread_title": "Севастополь — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12600,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-30T15:00:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T13:30:00+03:00",
+     "duration_seconds": 5400,
+     "number": "FV 6010",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 49560,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T05:30:00+03:00",
+     "carrier": "Гранд Сервис Экспресс (Таврия)",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T19:39:00+03:00",
+     "duration_seconds": 35460,
+     "number": "068С",
+     "thread_title": "Симферополь — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 12000,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T10:20:00+03:00",
+     "carrier": "Победа",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T08:50:00+03:00",
+     "duration_seconds": 5400,
+     "number": "DP 6821",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 52860,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T07:11:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Тверь",
+     "departure": "2026-03-30T20:00:00+03:00",
+     "duration_seconds": 40260,
+     "number": "036С",
+     "thread_title": "Адлер — Санкт-Петербург",
+     "transfer_city": "Тверь",
+     "transfer_wait_seconds": 2940,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T10:49:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Тверь",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T08:00:00+03:00",
+     "duration_seconds": 10140,
+     "number": "756А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 53340,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-31T02:06:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T16:38:00+03:00",
+     "duration_seconds": 34080,
+     "number": "038С",
+     "thread_title": "Сириус (Имеретинский курорт) — Нижний Новгород",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 15840,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T08:00:00+03:00",
+     "carrier": "Россия",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-31T06:30:00+03:00",
+     "duration_seconds": 5400,
+     "number": "FV 6190",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "plane"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 55320,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T22:55:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T16:00:00+03:00",
+     "duration_seconds": 24900,
+     "number": "239Ж",
+     "thread_title": "Воронеж — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 3600,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T07:55:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T23:55:00+03:00",
+     "duration_seconds": 28800,
+     "number": "002А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 57300,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T21:39:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T14:35:00+03:00",
+     "duration_seconds": 25440,
+     "number": "003С",
+     "thread_title": "Кисловодск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 5460,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T06:31:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T23:10:00+03:00",
+     "duration_seconds": 26460,
+     "number": "006А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 57360,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T13:20:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T02:06:00+03:00",
+     "duration_seconds": 40440,
+     "number": "542С",
+     "thread_title": "Адлер — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 3900,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-30T18:28:00+03:00",
+     "carrier": "РЖД/ДОСС",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T14:25:00+03:00",
+     "duration_seconds": 14580,
+     "number": "770А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 58920,
+   "transfers_count": 1
+  },
+  {
+   "from_city": "Воронеж",
+   "legs": [
+    {
+     "arrival": "2026-03-30T20:40:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Воронеж",
+     "city_to": "Москва",
+     "departure": "2026-03-30T12:51:00+03:00",
+     "duration_seconds": 28140,
+     "number": "030Й",
+     "thread_title": "Новороссийск — Москва",
+     "transfer_city": "Москва",
+     "transfer_wait_seconds": 4800,
+     "transport_type": "train"
+    },
+    {
+     "arrival": "2026-03-31T05:20:00+03:00",
+     "carrier": "РЖД/ФПК",
+     "city_from": "Москва",
+     "city_to": "Санкт-Петербург",
+     "departure": "2026-03-30T22:00:00+03:00",
+     "duration_seconds": 26400,
+     "number": "026А",
+     "thread_title": "Москва — Санкт-Петербург",
+     "transfer_city": "",
+     "transfer_wait_seconds": 0,
+     "transport_type": "train"
+    }
+   ],
+   "to_city": "Санкт-Петербург",
+   "total_duration": 59340,
+   "transfers_count": 1
+  }
+ ]
+}
